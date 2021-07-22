@@ -1,6 +1,6 @@
 export const INFORMATION = {
   avatar:
-    "https://res.cloudinary.com/dgq6qxh4k/image/upload/v1626920958/PURA%20Hamburgueser%C3%ADa/PURA_Hamburgueseria_5_seua2j.png",
+    "https://res.cloudinary.com/dgq6qxh4k/image/upload/v1626920958/PURA%20Hamburgueser%C3%ADa/Logo.png",
   banner:
     "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   title: "PURA Hamburgueseria",
