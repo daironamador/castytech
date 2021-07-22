@@ -1,3 +1,7 @@
+# PURA Hamburguesería
+PURA Hamburguesería es una tienda online creada con React y con el fin de poder ser administrada vía Google Sheets
+Dicha idea surgio a partir de una stream que vi de  [Gonzalo Pozzo](https://twitter.com/goncy)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
