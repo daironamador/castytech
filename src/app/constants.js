@@ -1,21 +1,21 @@
 export const INFORMATION = {
   avatar:
-    "https://res.cloudinary.com/dgq6qxh4k/image/upload/v1626920958/PURA%20Hamburgueser%C3%ADa/Logo.png",
+    "https://firebasestorage.googleapis.com/v0/b/pompococina.appspot.com/o/Imagenes%2Flogo.jpg?alt=media&token=5c0264a5-7143-4534-bfac-90fccd87168f",
   banner:
     "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-  title: "PURA Hamburgueseria",
-  description: "Hamburguesas premium en tamaños premium",
-  phone: "5493364549410",
+  title: "La Pompo Cocina",
+  description: "Los sabores que te harán sentir bien 🍔🍕🌉",
+  phone: "18097784474",
   sheet:
-    "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ00cBD8uptGcL-715FQ920IcepoWyHTAJrh2QnZmaTF3c_xe2b-gDGJ5lAE3pHW6X6EIzirvJ1RQFx/pub?output=csv",
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNSybYozipg3yLNQYJW0pO0UivPnkEF1axUx-bOpwMBLqkNrKD6JWRdcdOu0vmq86XHY04ylHC0vDT/pub?output=csv",
   color: "teal",
   social: [
     {
-      url: "https://www.instagram.com/fausgabini/",
+      url: "https://www.instagram.com/la_pompococina/",
       name: "instagram",
     },
     {
-      url: "https://wa.me/5493364549410",
+      url: "https://wa.me/18097784474",
       name: "whatsapp",
     },
   ],
