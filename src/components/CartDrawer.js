@@ -153,7 +153,7 @@ const CartDrawer = ({
                 width="100%"
                 as={Link}
                 colorScheme="whatsapp"
-                href={`https://wa.me/+5493364549410?text=${encodeURIComponent(
+                href={`https://wa.me/+18097784474?text=${encodeURIComponent(
                   text
                 )}`}
                 isExternal

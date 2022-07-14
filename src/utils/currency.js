@@ -1,6 +1,6 @@
 export const parseCurrency = (value) => {
-  return value.toLocaleString("es-AR", {
+  return value.toLocaleString("es-RD", {
     style: "currency",
-    currency: "ARS",
+    currency: "DOP",
   });
 };
